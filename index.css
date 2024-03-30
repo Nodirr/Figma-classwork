@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Work Sans;
+}
+.work-sans-uniquifier {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.container{
+    width: 95%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.n-nav{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    padding: 20px 0;
+}
+.n-right a{
+    text-decoration: none;
+    color: 
+    #222222;
+    margin: 20px;
+}
+
+.h-left h1{
+font-weight: 400;
+font-size: 55px;
+color: #333333;
+}
+
+.h-left p{
+font-size: 24px;
+font-weight: 400;
+color: #333333;
+}
+.h-main{
+    display: flex;
+    align-items: center;
+    gap: 300px;
+}
+.h-main1{
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    padding: 100px 0;
+}
+
+.lass h1{
+    font-weight: 400;
+    font-size: 45px;
+    text-align: center;
+}
+
+.card{
+    width: 288px;
+    height: 327px;
+    padding: 60px 0;
+    text-align: center;
+    box-shadow: 0px 0px 10px 0px #B7B7B7;
+}
+main{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 40px 0;
+}
+aside{
+    text-align: center;
+    padding: 120px 0;
+    background-color: #31C5A1;
+    h1{
+        font-weight: 400;
+        font-size: 30px;
+        color: white;
+    }
+}
+footer {
+    width: 100%;
+    height: max-content;
+    background-color: #ffffff;
+    color: #333333;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 60px 0;
+
+}
+
+.form button{
+    width: 90px;
+    height: 40px;
+    border: none;
+    color: #000000;
+    background-color:#39CDCC;
+    transform: rotate(90deg);
+    position: fixed;
+    font-size: 10px;
+    font-weight: 400;
+    top: 100px;
+    left: -30px;
+    border-radius: 
+    0px, 0px, 6px, 6px;
+    box-shadow: 0px 0px 10px 0px #0000001A;
+
+}
+
+ 
